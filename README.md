@@ -3,10 +3,15 @@
 Tools and Technologies :
 
 Java (Programming Language)
+
 Selenium (UI automation tool)
+
 TestNG (unit testing tool)
+
 Maven (Build tool)
+
 Page Factory (Design Pattern)
+
 Test automation framework is developed using the above tools and technologies with Page Facotry design pattern.
 
 Steps to import the Project :
