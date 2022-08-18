@@ -1,0 +1,39 @@
+2022-08-18T19:40:17,809 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-18T19:40:21,293 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-18T19:45:37,580 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-18T19:45:41,189 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-18T19:46:57,768 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-18T19:47:00,725 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-18T19:48:29,959 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-18T19:48:32,767 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-18T19:48:34,805 [main] INFO  (Log.java:22) - Test Started 
+2022-08-18T19:48:34,806 [main] INFO  (Log.java:22) - Method to switch to 
+2022-08-18T19:48:35,126 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-18T19:51:07,532 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-18T19:51:10,340 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-18T19:51:11,891 [main] INFO  (Log.java:22) - Test Started 
+2022-08-18T19:51:11,892 [main] INFO  (Log.java:22) - Method to switch to 
+2022-08-18T19:51:11,997 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-18T19:53:54,625 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-18T19:53:57,482 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-18T19:53:59,197 [main] INFO  (Log.java:22) - Test Started 
+2022-08-18T19:53:59,198 [main] INFO  (Log.java:22) - Method to switch to 
+2022-08-18T19:54:30,608 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-18T19:56:23,409 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-18T19:56:26,621 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-18T19:56:28,114 [main] INFO  (Log.java:22) - Test Started 
+2022-08-18T19:56:28,116 [main] INFO  (Log.java:22) - Method to switch to 
+2022-08-18T19:56:59,886 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-18T20:03:44,570 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-18T20:03:47,362 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-18T20:03:48,988 [main] INFO  (Log.java:22) - Test Started 
+2022-08-18T20:03:48,990 [main] INFO  (Log.java:22) - Method to switch to 
+2022-08-18T20:03:51,152 [main] INFO  (Log.java:22) - Test Ended 
+2022-08-18T20:03:51,157 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-18T20:13:05,989 [main] INFO  (Log.java:22) - Inside before method 
+2022-08-18T20:13:08,878 [main] INFO  (Log.java:22) - Method to navigate to Application URL
+2022-08-18T20:13:10,590 [main] INFO  (Log.java:22) - Test Started 
+2022-08-18T20:13:10,592 [main] INFO  (Log.java:22) - Method to switch to 
+2022-08-18T20:13:13,809 [main] INFO  (Log.java:22) - Test Ended 
+2022-08-18T20:13:13,817 [main] INFO  (Log.java:22) - Inside After Method
+2022-08-18T20:13:13,819 [main] INFO  (Log.java:22) - Inside After Class
